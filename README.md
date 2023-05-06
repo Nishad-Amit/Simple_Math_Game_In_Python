@@ -1,0 +1,2 @@
+# Simple_Math_Game_In_Python
+ The Simple Math Game is a simple project developed using python. This project is an interesting project. The user can test their calculation skills through this app. You have to answer with either 0-9 on the keyboard or on-screen buttons. If you are able to give the right solution to the problem, then the background will be green. If not, then the background will turn red.  
